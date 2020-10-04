@@ -1,0 +1,147 @@
+body {
+    background-color: gray;
+    padding-top: 0px;
+    margin-top: 0px;
+    font-family: Arial;
+}
+
+.maindiv {
+    display: block;
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.head {
+    display: flex;
+    width: 800px;
+}
+
+.para {
+    width: 280px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 22px 16px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.search {
+    margin: 10px 10px 10px 80px;
+}
+
+.secondblock {
+    font-size: 35px;
+    width: 800px;
+    text-align: center;
+    padding-top: 50px;
+    background-color: #e1eaea;
+}
+
+.thirdblock {
+    display: flex;
+    width: 800px;
+}
+
+.thirdpara {
+    padding: 0px 50px 20px 63px;
+}
+
+.form {
+    padding: 10px 10px 4px 120px;
+}
+
+input {
+    border: 1px solid #DBDBDB;
+    border-radius: 5px;
+}
+
+.button {
+    padding: 10px 5px 4px 40px;
+}
+
+.fourthblock {
+    display: flex;
+}
+
+.fourth1 {
+    border: 1px solid black;
+    width: 400px;
+    margin: 20px 20px 0px 20px;
+    padding: 260px 20px 0px 28px;
+    font-size: 29px;
+    background-color: #58616a;
+}
+
+.fourth2 {
+    border: 1px solid black;
+    width: 275px;
+    margin: 20px;
+    padding-top: 150px;
+    padding-bottom: 10px;
+    height: 45px;
+    text-align: center;
+    background-color: #58616a;
+}
+
+.fourth3 {
+    border: 1px solid black;
+    width: 275px;
+    margin-top: 37px;
+    padding-top: 150px;
+    padding-bottom: 10px;
+    height: 45px;
+    text-align: center;
+    background-color: #58616a;
+}
+
+.five {
+    display: flex;
+}
+
+.five1 {
+    margin: 30px 20px 0px 15px;
+}
+
+.six {
+    display: flex;
+}
+
+.six1 {
+    margin: 0px 20px 30px 15px;
+}
+
+.seven {
+    display: flex;
+}
+
+.login {
+    display: block;
+    background-color: white;
+    width: 130px;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+    color: black;
+    text-align: center;
+    font-size: 10px;
+}
